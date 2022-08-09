@@ -2,7 +2,7 @@
     SubmissionId	    :	38572180
 	ContestId	        :	236
 	Index	            :	A
-	ProblemName         :	Beautiful Year
+	ProblemName         :	Boy or Girl
 	ProgrammingLanguage	:	Java
 	Verdict	            :	OK
 	Author              :   ak811
