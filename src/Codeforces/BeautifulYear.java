@@ -13,7 +13,7 @@ package Codeforces;
 
 import java.util.Scanner;
 
-public class _BeautifulYear {
+public class BeautifulYear {
     public static void main(String[] args) {
         int a = new Scanner(System.in).nextInt() + 1;
         while (!isDistinct(a)) {
