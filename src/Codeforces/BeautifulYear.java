@@ -1,5 +1,5 @@
 /*
-	SubmissionId	    :	35290111
+	SubmissionId	    :	49337265
 	ContestId	        :	271
 	Index	            :	A
 	ProblemName         :	Beautiful Year
