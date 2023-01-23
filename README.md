@@ -3,7 +3,7 @@
 <br>
 
 ## Overview
-Codes I have written in online judges and ACM ICPC programming contests
+Codes I have written in online judges and ACM ICPC programming contests.
 
 <br>
 
